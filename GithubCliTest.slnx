@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/tests/">
+    <Project Path="tests/GithubCliTest.Api.Tests/GithubCliTest.Api.Tests.csproj" />
+  </Folder>
+  <Project Path="GithubCliTest.Api.csproj" />
+</Solution>
